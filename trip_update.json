@@ -1,0 +1,801 @@
+{
+  "header": {
+    "gtfsRealtimeVersion": "2.0",
+    "incrementality": "FULL_DATASET",
+    "timestamp": "1679909845"
+  },
+  "entity": [{
+    "id": "1",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "94605",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopId": "76901",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "75007.0",
+        "label": "36WEa-008"
+      },
+      "timestamp": "1679909814",
+      "delay": 360
+    }
+  }, {
+    "id": "2",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "40663",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 26,
+        "arrival": {
+          "delay": -60
+        },
+        "departure": {
+          "delay": -360
+        },
+        "stopId": "73619",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17403.0",
+        "label": "EN75-004"
+      },
+      "timestamp": "1679909836",
+      "delay": -360
+    }
+  }, {
+    "id": "3",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "94768/9",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 1,
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": 60
+        },
+        "stopId": "76869",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17401.0",
+        "label": "EN75-002"
+      },
+      "timestamp": "1679909837",
+      "delay": 60
+    }
+  }, {
+    "id": "4",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "34417",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 10,
+        "arrival": {
+          "delay": 540
+        },
+        "departure": {
+          "delay": 660
+        },
+        "stopId": "73650",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17301.0",
+        "label": "EN57AKŒ-1178"
+      },
+      "timestamp": "1679909838",
+      "delay": 660
+    }
+  }, {
+    "id": "5",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "40614",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 21,
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": -300
+        },
+        "stopId": "75226",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17219.0",
+        "label": "21WEa-009"
+      },
+      "timestamp": "1679909832",
+      "delay": -300
+    }
+  }, {
+    "id": "6",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "44570",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 1,
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": -3000
+        },
+        "stopId": "68700",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17217.0",
+        "label": "34WEa-003"
+      },
+      "timestamp": "1679909648",
+      "delay": -3000
+    }
+  }, {
+    "id": "7",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "44909",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": 60
+        },
+        "stopId": "68700",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17215.0",
+        "label": "34WEa-001"
+      },
+      "timestamp": "1679909836",
+      "delay": 60
+    }
+  }, {
+    "id": "8",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "94713/2",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 21,
+        "arrival": {
+          "delay": 300
+        },
+        "departure": {
+          "delay": 300
+        },
+        "stopId": "76364",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17207.0",
+        "label": "22WEd-005"
+      },
+      "timestamp": "1679909833",
+      "delay": 300
+    }
+  }, {
+    "id": "9",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "40426",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "arrival": {
+          "delay": -60
+        },
+        "departure": {
+          "delay": 120
+        },
+        "stopId": "73700",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17001.0",
+        "label": "EN76-002"
+      },
+      "timestamp": "1679909839",
+      "delay": 120
+    }
+  }, {
+    "id": "10",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "40529",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 14,
+        "arrival": {
+          "delay": -60
+        },
+        "departure": {
+          "delay": 0
+        },
+        "stopId": "72967",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17003.0",
+        "label": "EN76-004"
+      },
+      "timestamp": "1679909840",
+      "delay": 0
+    }
+  }, {
+    "id": "11",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "40531",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 1,
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": -780
+        },
+        "stopId": "73312",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17005.0",
+        "label": "EN76-006"
+      },
+      "timestamp": "1679909835",
+      "delay": -780
+    }
+  }, {
+    "id": "12",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "43102/3",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 8,
+        "arrival": {
+          "delay": 720
+        },
+        "departure": {
+          "delay": 780
+        },
+        "stopId": "77503",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17007.0",
+        "label": "EN76-008"
+      },
+      "timestamp": "1679909835",
+      "delay": 780
+    }
+  }, {
+    "id": "13",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "94762/3",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 33,
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": 60
+        },
+        "stopId": "75960",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17201.0",
+        "label": "21WEa-002"
+      },
+      "timestamp": "1679909832",
+      "delay": 60
+    }
+  }, {
+    "id": "14",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "94819/8",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": 0
+        },
+        "stopId": "73312",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17205.0",
+        "label": "22WEd-003"
+      },
+      "timestamp": "1679909806",
+      "delay": 0
+    }
+  }, {
+    "id": "15",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "40927",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "arrival": {
+          "delay": -60
+        },
+        "departure": {
+          "delay": 0
+        },
+        "stopId": "69823",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17503.0",
+        "label": "27WEb-004"
+      },
+      "timestamp": "1679909814",
+      "delay": 0
+    }
+  }, {
+    "id": "16",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "40665",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "arrival": {
+          "delay": 60
+        },
+        "departure": {
+          "delay": 120
+        },
+        "stopId": "72900",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17203",
+        "label": "22WEd-001"
+      },
+      "timestamp": "1679909815",
+      "delay": 120
+    }
+  }, {
+    "id": "17",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "40428",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 1,
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": -660
+        },
+        "stopId": "242839",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17211",
+        "label": "22WEd-009"
+      },
+      "timestamp": "1679909694",
+      "delay": -660
+    }
+  }, {
+    "id": "18",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "40428",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 1,
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": -1260
+        },
+        "stopId": "74500",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17214",
+        "label": "22WEd-012"
+      },
+      "timestamp": "1679909554",
+      "delay": -1260
+    }
+  }, {
+    "id": "19",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "94815/4",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "arrival": {
+          "delay": -60
+        },
+        "departure": {
+          "delay": 0
+        },
+        "stopId": "75937",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17402.0",
+        "label": "EN75-003"
+      },
+      "timestamp": "1679909841",
+      "delay": 0
+    }
+  }, {
+    "id": "20",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "40531",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": 0
+        },
+        "stopId": "73312",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17306.0",
+        "label": "EN71AKŒ-101"
+      },
+      "timestamp": "1679909785",
+      "delay": 0
+    }
+  }, {
+    "id": "21",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "44866",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": 60
+        },
+        "stopId": "68098",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17300.0",
+        "label": "EN57AKŒ-223"
+      },
+      "timestamp": "1679909842",
+      "delay": 60
+    }
+  }, {
+    "id": "22",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "44815",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 16,
+        "arrival": {
+          "delay": -60
+        },
+        "departure": {
+          "delay": 0
+        },
+        "stopId": "68205",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17220.0",
+        "label": "21WEa-010"
+      },
+      "timestamp": "1679909835",
+      "delay": 0
+    }
+  }, {
+    "id": "23",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "94264",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 1,
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": -840
+        },
+        "stopId": "69708",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17218.0",
+        "label": "34WEa-004"
+      },
+      "timestamp": "1679909815",
+      "delay": -840
+    }
+  }, {
+    "id": "24",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "40616",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 5,
+        "arrival": {
+          "delay": -60
+        },
+        "departure": {
+          "delay": 60
+        },
+        "stopId": "70607",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17212.0",
+        "label": "22WEd-010"
+      },
+      "timestamp": "1679909809",
+      "delay": 60
+    }
+  }, {
+    "id": "25",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "94717/6",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "arrival": {
+          "delay": -60
+        },
+        "departure": {
+          "delay": 60
+        },
+        "stopId": "72900",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17208.0",
+        "label": "22WEd-006"
+      },
+      "timestamp": "1679909839",
+      "delay": 60
+    }
+  }, {
+    "id": "26",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "40614",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 21,
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": -300
+        },
+        "stopId": "75226",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17204.0",
+        "label": "22WEd-002"
+      },
+      "timestamp": "1679909833",
+      "delay": -300
+    }
+  }, {
+    "id": "27",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "43464",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 29,
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": 120
+        },
+        "stopId": "73312",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17202.0",
+        "label": "21WEa-003"
+      },
+      "timestamp": "1679909785",
+      "delay": 120
+    }
+  }, {
+    "id": "28",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "94866/7",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 3,
+        "arrival": {
+          "delay": -60
+        },
+        "departure": {
+          "delay": -300
+        },
+        "stopId": "76430",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17000.0",
+        "label": "EN76-001"
+      },
+      "timestamp": "1679909826",
+      "delay": -300
+    }
+  }, {
+    "id": "29",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "94864",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": 0
+        },
+        "stopId": "76372",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17002.0",
+        "label": "EN76-003"
+      },
+      "timestamp": "1679909769",
+      "delay": 0
+    }
+  }, {
+    "id": "30",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "44717",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": 60
+        },
+        "stopId": "73312",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17008.0",
+        "label": "EN76-009"
+      },
+      "timestamp": "1679909834",
+      "delay": 60
+    }
+  }, {
+    "id": "31",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "40667",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopSequence": 1,
+        "arrival": {
+          "delay": 0
+        },
+        "departure": {
+          "delay": 0
+        },
+        "stopId": "62653",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "17502.0",
+        "label": "27WEb-003"
+      },
+      "timestamp": "1679909727",
+      "delay": 0
+    }
+  }, {
+    "id": "32",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "94654",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopId": "73700",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "75008.0",
+        "label": "36WEa-009"
+      },
+      "timestamp": "1679909834",
+      "delay": 240
+    }
+  }, {
+    "id": "33",
+    "tripUpdate": {
+      "trip": {
+        "tripId": "44713",
+        "scheduleRelationship": "SCHEDULED"
+      },
+      "stopTimeUpdate": [{
+        "stopId": "68783",
+        "scheduleRelationship": "SCHEDULED"
+      }],
+      "vehicle": {
+        "id": "75016.0",
+        "label": "36WEa-023"
+      },
+      "timestamp": "1679909805",
+      "delay": 60
+    }
+  }]
+}
